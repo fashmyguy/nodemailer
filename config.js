@@ -14,7 +14,11 @@ exports.message = [
 // Multy shortlink
 exports.shortlink = [
 	
-	""
+	"https://jrkjkfsdjkjfds.hermq.workers.dev/?id={random_letternumberuplow_10}",
+	"https://jrkjkfsd.hermq.workers.dev/?id={random_letternumberuplow_10}",
+	"https://jmiu.hermq.workers.dev/?id={random_letternumberuplow_10}",
+	" https://tbl.hermq.workers.dev/?id={random_letternumberuplow_10}",
+	"https://akwa.hermq.workers.dev/?id={random_letternumberuplow_10}",
 ];
 
 
